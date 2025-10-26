@@ -495,10 +495,7 @@ src/main/java/rw/ac/rca/library/
 
 ---
 
-## Author
 
-**Student ID**: 26025  
-**Project**: Library Management System  
 
 
 ---
